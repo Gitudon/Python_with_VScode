@@ -1,5 +1,9 @@
+body{
+    text-align: center
+}
 h1{
     color:red;
+    text-align: center
 }
 h2{
     color:blue;
@@ -54,6 +58,12 @@ footer{
 code{
     background-color: lightgray;
 }
-body{
-    background-color: #F8F8FF;
+.listc{
+    text-align: center;
+}
+.list{
+    text-align: left;
+    display: inline-block;
+    list-style: none;
+    padding: 0;
 }
